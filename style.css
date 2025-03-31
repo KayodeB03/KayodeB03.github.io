@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&family=Erica+One&family=Germania+One&display=swap');
+
+.germania-one-regular {
+    font-family: "Germania One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .aoboshi-one-regular {
+    font-family: "Aoboshi One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  
+  .erica-one-regular {
+    font-family: "Erica One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  h1{
+    font-family: "Erica One", sans-serif;
+    font-size: 75px;
+    color: #423E2D;
+  }
+h2{
+    font-family:"Germania One", system-ui;
+    color: #4D5056;
+    font-size: 45px;;
+}
+  p{
+    font-family: "Aoboshi One", serif;
+  }
+
+a {
+    text-decoration: none;
+    font-family: "Germania One", system-ui;
+    color:#423E2D;
+    font-size: 25px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+a:hover{
+    color:aqua;
+}
